@@ -1,1 +1,0 @@
-# insole-production-system
