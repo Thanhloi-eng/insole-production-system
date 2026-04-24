@@ -1,0 +1,254 @@
+Machine ID	Machine Name	Operational Status	Load %	Max Molds	Mold ID	Mold Size	Quantity	Status Note	Running Time
+M-01	Molding Machine 01	active	83	12	OV-394 L2	12.5#	1	OK	210h 41m
+M-01	Molding Machine 01	active	83	12	OV-394 L2	12#	1	OK	210h 41m
+M-01	Molding Machine 01	active	83	12	OV-394 L2	13#	1	OK	210h 41m
+M-01	Molding Machine 01	active	83	12	OV-394 L2	14#	1	OK	210h 41m
+M-01	Molding Machine 01	active	83	12	OV-394 L2	9.5#	1	OK	188h 59m
+M-01	Molding Machine 01	active	83	12	OV-394 L2	9#	1	OK	188h 59m
+M-01	Molding Machine 01	active	83	12	OV-394 L2	10#	1	OK	188h 59m
+M-01	Molding Machine 01	active	83	12	OV-394 L2	11.5#	1	OK	188h 59m
+M-01	Molding Machine 01	active	83	12	OV-394 L2	11#	1	OK	188h 59m
+M-01	Molding Machine 01	active	83	12	OV-394 L2	10.5#	1	OK	206h 11m
+M-02	Molding Machine 02	active	92	12	OV-394 L2	8#	1	OK	30h 2m
+M-02	Molding Machine 02	active	92	12	OV-394 L2	6#	1	OK	30h 2m
+M-02	Molding Machine 02	active	92	12	OV-394 L1	4.5#	1	OK	30h 1m
+M-02	Molding Machine 02	active	92	12	OV-394 L1	7.5#	1	OK	30h 1m
+M-02	Molding Machine 02	active	92	12	OV-394 L2	4.5#	1	OK	30h 2m
+M-02	Molding Machine 02	active	92	12	OV-394 L2	3.5#	1	OK	30h 2m
+M-02	Molding Machine 02	active	92	12	OV-394 L1	8#	1	OK	30h 1m
+M-02	Molding Machine 02	active	92	12	OV-394 L2	7.5#	1	OK	30h 2m
+M-02	Molding Machine 02	active	92	12	OV-394 L2	8.5#	1	OK	30h 2m
+M-02	Molding Machine 02	active	92	12	OV-394 L2	6.5#	1	OK	30h 2m
+M-02	Molding Machine 02	active	92	12	OV-394 L1	6#	1	OK	30h 1m
+M-03	Molding Machine 03	active	92	12	OV-0408	5.5#	1	OK	38h 7m
+M-03	Molding Machine 03	active	92	12	OV-0408	7#	1	OK	38h 7m
+M-03	Molding Machine 03	active	92	12	OV-0408	9.5#	1	OK	38h 7m
+M-03	Molding Machine 03	active	92	12	OV-0408	6.5#	1	OK	38h 7m
+M-03	Molding Machine 03	active	92	12	OV-0408	10.5#	1	OK	43h 34m
+M-03	Molding Machine 03	active	92	12	OV-0408	7.5#	1	OK	43h 34m
+M-03	Molding Machine 03	active	92	12	OV-0408	11#	1	OK	38h 6m
+M-03	Molding Machine 03	active	92	12	OV-0408	6#	1	OK	38h 5m
+M-03	Molding Machine 03	active	92	12	OV-0408	13#	1	OK	26h 43m
+M-03	Molding Machine 03	active	92	12	OV-0408	8#	1	OK	43h 34m
+M-03	Molding Machine 03	active	92	12	OV-0408	9#	1	OK	43h 34m
+M-04	Molding Machine 04	active	100	12	OV-394 L1	8.5#	1	OK	30h 0m
+M-04	Molding Machine 04	active	100	12	OV-394 L1	6.5#	1	OK	30h 0m
+M-04	Molding Machine 04	active	100	12	OV-394 L1	7#	1	OK	38h 8m
+M-04	Molding Machine 04	active	100	12	OV-394 L1	12.5#	1	OK	38h 8m
+M-04	Molding Machine 04	active	100	12	OV-394 L1	10.5#	1	OK	38h 39m
+M-04	Molding Machine 04	active	100	12	OV-394 L1	9.5#	1	OK	38h 39m
+M-04	Molding Machine 04	active	100	12	OV-394 L1	11.5#	1	OK	38h 38m
+M-04	Molding Machine 04	active	100	12	OV-394 L1	9#	1	OK	9h 12m
+M-04	Molding Machine 04	active	100	12	OV-394 L1	10#	1	OK	38h 39m
+M-04	Molding Machine 04	active	100	12	OV-394 L1	11#	1	OK	38h 38m
+M-04	Molding Machine 04	active	100	12	OV-394 L1	13#	1	OK	9h 12m
+M-04	Molding Machine 04	active	100	12	OV-394 L1	12#	1	OK	38h 38m
+M-05	Molding Machine 05	active	92	12	OV-0408	11.5#	1	OK	34h 15m
+M-05	Molding Machine 05	active	92	12	OV-0408	3.5#	1	OK	34h 15m
+M-05	Molding Machine 05	active	92	12	OV-0408	4.5#	1	OK	34h 15m
+M-05	Molding Machine 05	active	92	12	OV-0408	5#	1	OK	34h 15m
+M-05	Molding Machine 05	active	92	12	OE-0656	8#	1	OK	34h 14m
+M-05	Molding Machine 05	active	92	12	OV-0408	8.5#	1	OK	34h 16m
+M-05	Molding Machine 05	active	92	12	OV-0408	10#	1	OK	34h 15m
+M-05	Molding Machine 05	active	92	12	OE-0656	7#	1	OK	34h 14m
+M-05	Molding Machine 05	active	92	12	OV-0408	12.5#	1	OK	34h 16m
+M-05	Molding Machine 05	active	92	12	OV-0408	14#	1	OK	34h 15m
+M-05	Molding Machine 05	active	92	12	OV-0408	12#	1	OK	34h 15m
+M-06	Molding Machine 06	active	100	12	OSC-0003	5.5#-6.5#	11	OK	34h 33m
+M-06	Molding Machine 06	active	100	12	OSC-0003	13#-15#	1	OK	34h 33m
+M-07	Molding Machine 07	active	100	12	OV-0420	8-10#	1	OK	202h 40m
+M-07	Molding Machine 07	active	100	12	OV-0420	5-7#	1	OK	202h 39m
+M-07	Molding Machine 07	active	100	12	OV-0256	5#-6#	10	OK	15h 46m
+M-08	Molding Machine 08	active	100	12	OV-0256	6.5#-7.5#	10	OK	15h 45m
+M-08	Molding Machine 08	active	100	12	OV-0423	10.5#-11.5#	2	OK	15h 45m
+M-09	Molding Machine 09	active	100	12	OV-0428	14#	1	OK	26h 47m
+M-09	Molding Machine 09	active	100	12	OV-0428	13#	1	OK	26h 47m
+M-09	Molding Machine 09	active	100	12	OV-0428	7.5#	1	OK	25h 45m
+M-09	Molding Machine 09	active	100	12	OV-0428	8.5#	1	OK	26h 48m
+M-09	Molding Machine 09	active	100	12	OV-0428	9#	1	OK	26h 47m
+M-09	Molding Machine 09	active	100	12	OV-0428	10.5#	1	OK	26h 47m
+M-09	Molding Machine 09	active	100	12	OV-0428	8#	1	OK	26h 48m
+M-09	Molding Machine 09	active	100	12	OV-0428	12#	1	OK	26h 47m
+M-09	Molding Machine 09	active	100	12	OV-0428	9.5#	1	OK	26h 48m
+M-09	Molding Machine 09	active	100	12	OV-0428	11.5#	1	OK	26h 47m
+M-09	Molding Machine 09	active	100	12	OV-0428	10#	1	OK	26h 47m
+M-09	Molding Machine 09	active	100	12	OV-0428	11#	1	OK	25h 45m
+M-10	Molding Machine 10	active	100	12	OSC-0003	8.5#-9.5#	12	OK	34h 35m
+M-11	Molding Machine 11	active	100	12	OSC-0003	10#-11#	8	OK	34h 35m
+M-11	Molding Machine 11	active	100	12	OSC-0003	3.5#-5#	4	OK	34h 35m
+M-12	Molding Machine 12	active	100	12	OV-0256	9.5#-10.5#	12	OK	343h 33m
+M-13	Molding Machine 13	active	100	12	OE-1429	15#	1	OK	19h 33m
+M-13	Molding Machine 13	active	100	12	OE-1429	5.5#	1	OK	19h 33m
+M-13	Molding Machine 13	active	100	12	OSC-0003	7#-8#	7	OK	22h 32m
+M-13	Molding Machine 13	active	100	12	OSC-0003	11.5#-12.5#	3	OK	22h 32m
+M-14	Molding Machine 14	active	100	12	OV-0256	9.5#-10.5#	12	OK	343h 33m
+M-15	Molding Machine 15	active	100	12	OV-0256	12.5#-13.5#	3	OK	2h 47m
+M-15	Molding Machine 15	active	100	12	OV-0256	14#-15#	1	OK	2h 47m
+M-15	Molding Machine 15	active	100	12	OV-0256	11#-12#	4	OK	2h 47m
+M-15	Molding Machine 15	active	100	12	OV-0256	6.5#-7.5#	4	OK	2h 47m
+M-16	Molding Machine 16	active	92	12	OV-0419	3-4#	1	OK	61h 51m
+M-16	Molding Machine 16	active	92	12	OV-0419	8-10#	1	OK	77h 16m
+M-16	Molding Machine 16	active	92	12	OV-0256	9.5#-10.5#	8	OK	96h 46m
+M-16	Molding Machine 16	active	92	12	OV-0419	5-7#	1	OK	61h 51m
+M-17	Molding Machine 17	active	100	12	OV-0256	6.5#-7.5#	12	OK	2h 46m
+M-18	Molding Machine 18	active	100	12	OV-0256	6.5#-7.5#	12	OK	111h 14m
+M-19	Molding Machine 19	active	92	12	OV-0339	11#-12#	3	OK	27h 52m
+M-19	Molding Machine 19	active	92	12	OV-0339	6.5#-7.5#	4	OK	27h 52m
+M-19	Molding Machine 19	active	92	12	OV-0339	8#-9#	4	OK	27h 52m
+M-20	Molding Machine 20	active	100	12	OV-0436	12.5#-14#	1	OK	172h 41m
+M-20	Molding Machine 20	active	100	12	OV-0436	3.5#-4.5#	1	OK	147h 11m
+M-20	Molding Machine 20	active	100	12	OV-0436	8#-9#	1	OK	172h 41m
+M-20	Molding Machine 20	active	100	12	OV-0436	9.5#-10.5#	6	OK	17h 2m
+M-20	Molding Machine 20	active	100	12	OV-0436	11#-12#	3	OK	17h 2m
+M-21	Molding Machine 21	active	100	12	OV-0339	5#-6#	4	OK	27h 53m
+M-21	Molding Machine 21	active	100	12	OV-0339	9.5#-10.5#	4	OK	27h 53m
+M-21	Molding Machine 21	active	100	12	OV-0339	3.5#-4.5#	1	OK	27h 53m
+M-21	Molding Machine 21	active	100	12	OV-0339	12.5#-14#	1	OK	27h 53m
+M-21	Molding Machine 21	active	100	12	OV-0459	9.5#-10.5#	1	OK	27h 53m
+M-21	Molding Machine 21	active	100	12	OV-0459	8#-9#	1	OK	27h 53m
+M-22	Molding Machine 22	active	92	12	OV-0341 LAYER 2	7#	1	OK	11h 20m
+M-22	Molding Machine 22	active	92	12	OV-0341 LAYER 2	7.5#	1	OK	11h 20m
+M-22	Molding Machine 22	active	92	12	OV-0341 LAYER 2	8#	1	OK	11h 20m
+M-22	Molding Machine 22	active	92	12	OV-0341 LAYER 2	8.5#	1	OK	11h 20m
+M-22	Molding Machine 22	active	92	12	OV-0341 LAYER 2	9#	1	OK	11h 20m
+M-22	Molding Machine 22	active	92	12	OV-0341 LAYER 2	9.5#	1	OK	11h 19m
+M-22	Molding Machine 22	active	92	12	OV-0341 LAYER 2	10#	1	OK	11h 19m
+M-22	Molding Machine 22	active	92	12	OV-0341 LAYER 2	10.5#	1	OK	11h 19m
+M-22	Molding Machine 22	active	92	12	OV-0341 LAYER 2	11#	1	OK	11h 19m
+M-22	Molding Machine 22	active	92	12	OV-0333	5#-6#	1	OK	11h 19m
+M-22	Molding Machine 22	active	92	12	OV-0333	6.5#-7.5#	1	OK	11h 19m
+M-23	Molding Machine 23	active	100	12	OV-0446 L1	5.5-6#	1	OK	6h 16m
+M-23	Molding Machine 23	active	100	12	OV-0446 L1	6.5-7#	1	OK	6h 16m
+M-23	Molding Machine 23	active	100	12	OV-0446 L1	7.5-8#	1	OK	6h 16m
+M-23	Molding Machine 23	active	100	12	OV-0446 L1	8.5-9#	1	OK	6h 16m
+M-23	Molding Machine 23	active	100	12	OV-0446 L1	9.5-10#	1	OK	6h 16m
+M-23	Molding Machine 23	active	100	12	OV-0446 L1	10.5-11#	1	OK	6h 16m
+M-23	Molding Machine 23	active	100	12	OV-0446 L1	11.5-12#	1	OK	6h 16m
+M-23	Molding Machine 23	active	100	12	OV-0446 L1	12.5-13#	1	OK	6h 16m
+M-23	Molding Machine 23	active	100	12	OV-0446 L1	14#	1	OK	6h 16m
+M-23	Molding Machine 23	active	100	12	OV-0446 L1	15#	1	OK	6h 16m
+M-23	Molding Machine 23	active	100	12	OV-0398	6.5-7.5#	1	OK	20h 37m
+M-23	Molding Machine 23	active	100	12	OV-0398	8-9#	1	OK	20h 37m
+M-24	Molding Machine 24	active	100	12	OV-0286-1	7.5#-8.5#	1	OK	2h 34m
+M-24	Molding Machine 24	active	100	12	OV-0286-1	6#-7#	1	OK	2h 34m
+M-24	Molding Machine 24	active	100	12	OV-0286-1	4.5#-5.5#	1	OK	2h 34m
+M-24	Molding Machine 24	active	100	12	OV-0286-1	2.5#-4#	1	OK	2h 34m
+M-24	Molding Machine 24	active	100	12	OV-0446 L2	5.5-6#	1	OK	6h 15m
+M-24	Molding Machine 24	active	100	12	OV-0446 L2	6.5-7#	1	OK	6h 15m
+M-24	Molding Machine 24	active	100	12	OV-0446 L2	7.5-8#	1	OK	6h 15m
+M-24	Molding Machine 24	active	100	12	OV-0446 L2	8.5-9#	1	OK	6h 15m
+M-24	Molding Machine 24	active	100	12	OV-0446 L2	9.5-10#	1	OK	6h 15m
+M-24	Molding Machine 24	active	100	12	OV-0446 L2	10.5-11#	1	OK	6h 15m
+M-24	Molding Machine 24	active	100	12	OV-0446 L2	11.5-12#	1	OK	6h 15m
+M-24	Molding Machine 24	active	100	12	OV-0446 L2	12.5-13#	1	OK	6h 15m
+M-25	Molding Machine 25	active	92	12	OV-0356 LAYER 2	7.5#	1	OK	173h 10m
+M-25	Molding Machine 25	active	92	12	OV-0356 LAYER 2	9.5#	1	OK	173h 9m
+M-25	Molding Machine 25	active	92	12	OV-0356 LAYER 2	8.5#	1	OK	173h 9m
+M-25	Molding Machine 25	active	92	12	OV-0356 LAYER 2	8#	1	OK	173h 9m
+M-25	Molding Machine 25	active	92	12	OV-0356 LAYER 2	11#	1	OK	173h 9m
+M-25	Molding Machine 25	active	92	12	OV-0363	5#-6#	1	OK	53h 45m
+M-25	Molding Machine 25	active	92	12	OV-0363	8#-9#	1	OK	53h 44m
+M-25	Molding Machine 25	active	92	12	OV-0363	11#-12#	1	OK	53h 44m
+M-25	Molding Machine 25	active	92	12	OV-0356 LAYER 2	10#	1	OK	173h 9m
+M-25	Molding Machine 25	active	92	12	OV-0363	6.5#-7.5#	1	OK	53h 44m
+M-25	Molding Machine 25	active	92	12	OV-0363	9.5#-10.5#	1	OK	53h 44m
+M-26	Molding Machine 26	active	83	12	OV-0436	6.5#-7.5#	6	OK	17h 59m
+M-26	Molding Machine 26	active	83	12	OV-0436	8#-9#	2	OK	17h 2m
+M-26	Molding Machine 26	active	83	12	OV-0385	*#	2	OK	75h 49m
+M-27	Molding Machine 27	active	75	12	OV-0337	9.5#-10.5#	1	OK	488h 59m
+M-27	Molding Machine 27	active	75	12	OV-0446 L2	14#	1	OK	210h 39m
+M-27	Molding Machine 27	active	75	12	OV-0446 L2	15#	1	OK	210h 39m
+M-27	Molding Machine 27	active	75	12	OV-0337	14#-15#	1	OK	488h 59m
+M-27	Molding Machine 27	active	75	12	OV-0337	11#-12#	1	OK	488h 59m
+M-27	Molding Machine 27	active	75	12	OV-0337	5#-6#	1	OK	488h 59m
+M-27	Molding Machine 27	active	75	12	OV-0337	8#-9#	1	OK	488h 59m
+M-27	Molding Machine 27	active	75	12	OV-0337	12.5#-13.5#	1	OK	488h 59m
+M-27	Molding Machine 27	active	75	12	OV-0337	6.5#-7.5#	1	OK	488h 59m
+M-28	Molding Machine 28	active	100	12	OE-0002	7.5#-8.5#	4	OK	31h 34m
+M-28	Molding Machine 28	active	100	12	OE-0002	10.5#-11.5#	6	OK	31h 34m
+M-28	Molding Machine 28	active	100	12	OE-0002	4.5#-5.5#	2	OK	31h 34m
+M-29	Molding Machine 29	active	100	12	OV-0435	7#	2	OK	50h 48m
+M-29	Molding Machine 29	active	100	12	OV-0435	6#	2	OK	110h 17m
+M-29	Molding Machine 29	active	100	12	OV-0435	9#	2	OK	184h 45m
+M-29	Molding Machine 29	active	100	12	OV-0435	8#	2	OK	184h 44m
+M-29	Molding Machine 29	active	100	12	OV-0435	6.5#	2	OK	10h 29m
+M-29	Molding Machine 29	active	100	12	OV-0435	5.5#	2	OK	10h 29m
+M-30	Molding Machine 30	active	100	12	OE-0002	3.5#-4#	2	OK	31h 35m
+M-30	Molding Machine 30	active	100	12	OE-0002	9#-10#	6	OK	31h 34m
+M-30	Molding Machine 30	active	100	12	OE-0002	6#-7#	2	OK	31h 35m
+M-30	Molding Machine 30	active	100	12	OE-0002	12#-13#	2	OK	31h 34m
+M-31	Molding Machine 31	active	100	12	OV-0435	7.5#	2	OK	50h 49m
+M-31	Molding Machine 31	active	100	12	OV-0435	8.5#	2	OK	39h 21m
+M-31	Molding Machine 31	active	100	12	OV-0435	9.5#	2	OK	50h 49m
+M-31	Molding Machine 31	active	100	12	OV-0435	10#	1	OK	10h 27m
+M-31	Molding Machine 31	active	100	12	OV-0435	12#	1	OK	10h 27m
+M-31	Molding Machine 31	active	100	12	OV-0435	5#	2	OK	10h 27m
+M-31	Molding Machine 31	active	100	12	OV-0435	4.5#	1	OK	10h 26m
+M-31	Molding Machine 31	active	100	12	OV-0435	4#	1	OK	10h 26m
+M-32	Molding Machine 32	active	100	12	OV-0267	5.5#-6.5#	5	OK	2h 45m
+M-32	Molding Machine 32	active	100	12	OV-0267	7#-8#	5	OK	2h 45m
+M-32	Molding Machine 32	active	100	12	OV-0267	3.5#-5#	1	OK	2h 45m
+M-32	Molding Machine 32	active	100	12	OV-0267	8.5#-9.5#	1	OK	2h 45m
+M-33	Molding Machine 33	active	92	24	OV-0345	9#-10#	1	OK	4h 13m
+M-33	Molding Machine 33	active	92	24	OV-0345	10.5#-11.5#	1	OK	4h 13m
+M-33	Molding Machine 33	active	92	24	OE-1128	10#	10	OK	4h 14m
+M-33	Molding Machine 33	active	92	24	OE-1128	17#	1	OK	4h 14m
+M-33	Molding Machine 33	active	92	24	OE-1128	3.5#	1	OK	4h 14m
+M-33	Molding Machine 33	active	92	24	OE-1128	9.5#	8	OK	2h 35m
+M-34	Molding Machine 34	active	96	24	OE-1128	8#	10	OK	104h 45m
+M-34	Molding Machine 34	active	96	24	OE-1128	11.5#	6	OK	2h 44m
+M-34	Molding Machine 34	active	96	24	OE-1128	4.5#	4	OK	104h 44m
+M-34	Molding Machine 34	active	96	24	OE-1128	14#	2	OK	104h 45m
+M-34	Molding Machine 34	active	96	24	OE-1128	15#	1	OK	104h 44m
+M-35	Molding Machine 35	active	100	24	OE-1128	5.5#	8	OK	337h 27m
+M-35	Molding Machine 35	active	100	24	OE-1128	12.5#	3	OK	395h 9m
+M-35	Molding Machine 35	active	100	24	OE-1128	4#	1	OK	395h 9m
+M-35	Molding Machine 35	active	100	24	OE-1128	6#	12	OK	238h 41m
+M-36	Molding Machine 36	active	96	24	OE-1128	6.5#	12	OK	70h 28m
+M-36	Molding Machine 36	active	96	24	OE-1128	12#	7	OK	70h 52m
+M-36	Molding Machine 36	active	96	24	OE-1128	9#	4	OK	2h 43m
+M-37	Molding Machine 37	active	100	24	OE-1128	9#	8	OK	4h 11m
+M-37	Molding Machine 37	active	100	24	OE-1128	7#	6	OK	70h 54m
+M-37	Molding Machine 37	active	100	24	OE-1128	7.5#	10	OK	392h 15m
+M-38	Molding Machine 38	active	100	24	OE-1128	9.5#	8	OK	86h 19m
+M-38	Molding Machine 38	active	100	24	OE-1128	10.5#	8	OK	40h 41m
+M-38	Molding Machine 38	active	100	24	OE-1128	11#	8	OK	40h 41m
+M-39	Molding Machine 39	active	100	24	OE-1128	5#	6	OK	70h 52m
+M-39	Molding Machine 39	active	100	24	OE-1128	8.5#	14	OK	70h 52m
+M-39	Molding Machine 39	active	100	24	OE-1128	13#	4	OK	19h 9m
+M-40	Molding Machine 40	active	100	24	OV-0256	8#-9#	24	OK	111h 13m
+M-41	Molding Machine 41	active	100	12	OV-0256	5#-6#	12	OK	54h 8m
+M-42	Molding Machine 42	active	100	12	OV-0256	3.5#-4.5#	6	OK	54h 7m
+M-42	Molding Machine 42	active	100	12	OV-0256	8#-9#	6	OK	106h 27m
+M-43	Molding Machine 43	active	92	12	OV-0229	5.5#	1	OK	9h 34m
+M-43	Molding Machine 43	active	92	12	OV-0292 LAYER 1	4.5#-5.5#	1	OK	9h 34m
+M-43	Molding Machine 43	active	92	12	OV-0208	3.5#-4#	2	OK	9h 35m
+M-43	Molding Machine 43	active	92	12	OV-0292 LAYER 1	3#-4#	1	OK	9h 34m
+M-43	Molding Machine 43	active	92	12	OV-0208	4.5#-5.5#	6	OK	9h 35m
+M-44	Molding Machine 44	active	92	12	OS-0312	12#-13#	3	OK	6h 18m
+M-44	Molding Machine 44	active	92	12	OS-0312	10.5#-11.5#	8	OK	6h 18m
+M-45	Molding Machine 45	active	100	32	OI-0023	3.5#-4.5#	3	OK	29h 16m
+M-45	Molding Machine 45	active	100	32	OI-0023	8#-9#	16	OK	29h 16m
+M-45	Molding Machine 45	active	100	32	OI-0023	5#-6#	5	OK	29h 16m
+M-45	Molding Machine 45	active	100	32	OI-0023	14#-15#	1	OK	29h 16m
+M-45	Molding Machine 45	active	100	32	OI-0023	12.5#-13.5#	4	OK	29h 16m
+M-45	Molding Machine 45	active	100	32	OI-0023	6.5#-7.5#	3	OK	29h 16m
+M-46	Molding Machine 46	active	100	32	OV-0208	6#-7#	18	OK	9h 20m
+M-46	Molding Machine 46	active	100	32	OV-0208	10.5#-11.5#	8	OK	135h 34m
+M-46	Molding Machine 46	active	100	32	OV-0208	12#-13#	6	OK	9h 21m
+M-47	Molding Machine 47	active	97	32	OI-0023	11#-12#	12	OK	29h 20m
+M-47	Molding Machine 47	active	97	32	OI-0023	16#-18#	1	OK	29h 20m
+M-47	Molding Machine 47	active	97	32	OI-0023	9.5#-10.5#	18	OK	29h 20m
+M-48	Molding Machine 48	active	100	32	OV-0208	9#-10#	26	OK	136h 13m
+M-48	Molding Machine 48	active	100	32	OV-0208	4.5#-5.5#	6	OK	135h 33m
+M-49	Molding Machine 49	active	94	32	OS-0111- HÀNG THĂNG HOA	6#-7#	4	OK	54h 34m
+M-49	Molding Machine 49	active	94	32	OS-0111- HÀNG THĂNG HOA	4.5#-5.5#	3	OK	54h 34m
+M-49	Molding Machine 49	active	94	32	OS-0111- HÀNG THĂNG HOA	10.5#-11.5#	2	OK	54h 34m
+M-49	Molding Machine 49	active	94	32	OS-0111- HÀNG THĂNG HOA	12#-13#	1	OK	523h 5m
+M-49	Molding Machine 49	active	94	32	OS-0111- HÀNG THĂNG HOA	3.5#-4#	1	OK	523h 5m
+M-49	Molding Machine 49	active	94	32	OS-0111- HÀNG THĂNG HOA	14#-15#	2	OK	523h 5m
+M-49	Molding Machine 49	active	94	32	OS-0111- HÀNG THĂNG HOA	9#-10#	15	OK	115h 3m
+M-49	Molding Machine 49	active	94	32	OS-0111- HÀNG THĂNG HOA	7.5#-8.5#	2	OK	115h 4m
+M-50	Molding Machine 50	active	100	32	OV-0208	10.5#-11.5#	8	OK	223h 20m
+M-50	Molding Machine 50	active	100	32	OV-0208	14#-15#	2	OK	136h 24m
+M-50	Molding Machine 50	active	100	32	OV-0208	7.5#-8.5#	22	OK	136h 24m
